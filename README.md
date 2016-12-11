@@ -1,6 +1,6 @@
 **TodoMVC jQuery**
 
-URL: https://hyperdev.com/#!/project/maze-stealer
+URL: https://gomix.com/#!/project/maze-stealer
 
 This is the workspace for the watchandcode.com
 screencast series on the jQuery version of TodoMVC.
