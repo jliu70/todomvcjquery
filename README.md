@@ -7,7 +7,7 @@ screencast series on the jQuery version of TodoMVC.
 
 **How to Read Source Code**
 
-Wny it’s important
+Why it’s important
 
 1. Most of your time will be spent reading, not writing.
 2. Simulates working at a company or open source project.
